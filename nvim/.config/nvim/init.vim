@@ -234,3 +234,6 @@ nmap <silent> <leader><leader> :noh<CR>
 nmap <Tab> :bnext<CR>
 nmap <S-Tab> :bprevious<CR>
 
+let g:python_host_prog = '/Users/siddharthathota/.pyenv/versions/neovim2/bin/python'
+let g:python3_host_prog = '/Users/siddharthathota/.pyenv/versions/neovim3/bin/python'
+
